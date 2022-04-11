@@ -10,7 +10,7 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 ### Links
 
 - Solution URL: [solution URL](https://github.com/xhyphen66/Sunnyside-agency-landing-page)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://xhyphen66.github.io/Sunnyside-agency-landing-page/)
 
 ### Built with
 
