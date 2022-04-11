@@ -9,7 +9,7 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
+- Solution URL: [solution URL](https://github.com/xhyphen66/Sunnyside-agency-landing-page)
 - Live Site URL: [live site URL](https://your-live-site-url.com)
 
 ### Built with
@@ -20,4 +20,4 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@xhyphen66](https://www.frontendmentor.io/profile/xhyphen66)
